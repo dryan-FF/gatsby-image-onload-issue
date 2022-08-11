@@ -1,0 +1,9 @@
+.imageListWrapper {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.imageListWrapper li {
+  width: 33%;
+}
